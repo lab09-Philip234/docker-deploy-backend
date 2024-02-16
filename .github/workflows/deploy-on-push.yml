@@ -1,4 +1,3 @@
-[11:08 AM] ANUPHAT MANOTAM
 name: Deploy backend to host
 'on':
     push:
